@@ -1,0 +1,16 @@
+<style>
+a {
+  color:black;
+  text-decoration: none;
+  }
+body{
+  margin:0;
+  }
+h1 {
+    font-size:70px;
+    text-align: center;
+    border-bottom: 2px solid gray;
+    margin:0;
+    padding: 20px;
+  }
+</style>
